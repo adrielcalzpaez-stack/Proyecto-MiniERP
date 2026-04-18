@@ -22,7 +22,7 @@ We hope this program is easy to use and causes no trouble.
 ## Developers:
 1. Marlon Alvarez Ferragut
 2. Adriel Calzadilla Páez
-3. Lorena
-4. Maria Fernanda
-5. Liz Marien
-6. Kamila
+3. Lorena Pino Harada
+4. Maria Fernanda Pacheco González
+5. Liz Marien Lazo Gutiérrez
+6. Kamila Díaz Ledesma
