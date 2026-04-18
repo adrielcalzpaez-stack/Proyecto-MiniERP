@@ -1,7 +1,7 @@
 # Proyecto-MiniERP
 ## Description:
 This is a simple c++ program to manage a small family business named Soluciones S.A.
-The purpose of this project is to automate daily business operations and keep everything organized in one unique system.
+The purpose of this project is to automate daily business operations and keep everything organized within a single system.
 We hope this program is easy to use and causes no trouble.
 
 ## Features:
