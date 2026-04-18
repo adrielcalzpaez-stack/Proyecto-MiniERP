@@ -18,3 +18,11 @@ We hope this program is easy to use and causes no trouble.
 3. Employee: From Person
 4. Product
 5. Sales
+
+## Developers:
+1. Marlon Alvarez Ferragut
+2. Adriel Calzadilla Páez
+3. Lorena
+4. Maria Fernanda
+5. Liz Marien
+6. Kamila
