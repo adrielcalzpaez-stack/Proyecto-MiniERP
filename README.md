@@ -4,6 +4,15 @@ This is a simple c++ program to manage a small family business named Soluciones 
 The purpose of this project is to automate daily business operations and keep everything organized within a single system.
 We hope this program is easy to use and causes no trouble.
 
+## Instructions:
+This project contains all the code files in the main folder.
+To run this program, you just need to compile it once:
+1. Click the Code buttom and select Download.
+2. Extract the downloaded file and open the folder.
+3. Open the Terminal and type g++ *.cpp -o Mini-ERP.
+4. Step 3 create an executable file Mini-ERP.exe.
+5. In the Terminal type Mini-ERP.exe to run the program.
+
 ## Features:
 1. Manage products
 2. Support for clients and their purchase history
