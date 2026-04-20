@@ -1,0 +1,26 @@
+[
+    {
+        "categoria": "tecnologia",
+        "costo": 120.0,
+        "id": 1,
+        "nombre": "laptop",
+        "precio": 200.0,
+        "stock": 10
+    },
+    {
+        "categoria": "infantiles",
+        "costo": 20.0,
+        "id": 2,
+        "nombre": "jugetes",
+        "precio": 40.0,
+        "stock": 36
+    },
+    {
+        "categoria": "auto",
+        "costo": 800.0,
+        "id": 3,
+        "nombre": "coche",
+        "precio": 1000.0,
+        "stock": 2
+    }
+]

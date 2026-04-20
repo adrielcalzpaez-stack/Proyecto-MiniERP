@@ -1,0 +1,26 @@
+[
+    {
+        "apellido": "Pino",
+        "cargo": "supervisora",
+        "id": "1",
+        "nombre": "Lorena",
+        "salario": 10.0,
+        "telefono": "55677889"
+    },
+    {
+        "apellido": "Alvarez",
+        "cargo": "mipimero",
+        "id": "2",
+        "nombre": "Marlon",
+        "salario": 100000.0,
+        "telefono": "56677374"
+    },
+    {
+        "apellido": "Perez",
+        "cargo": "Portero",
+        "id": "3",
+        "nombre": "Gonzalo",
+        "salario": 1000.0,
+        "telefono": "4556670"
+    }
+]

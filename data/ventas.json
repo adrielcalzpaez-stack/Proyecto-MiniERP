@@ -1,0 +1,61 @@
+[
+    {
+        "fecha": "2026-04-19",
+        "id": 4,
+        "idCliente": "1",
+        "productosIds": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "total": 880.0
+    },
+    {
+        "fecha": "2026-04-19",
+        "id": 5,
+        "idCliente": "2",
+        "productosIds": [
+            2,
+            2
+        ],
+        "total": 80.0
+    },
+    {
+        "fecha": "2026-04-19",
+        "id": 6,
+        "idCliente": "1",
+        "productosIds": [
+            3
+        ],
+        "total": 1000.0
+    },
+    {
+        "fecha": "2026-04-19",
+        "id": 7,
+        "idCliente": "1",
+        "productosIds": [
+            1,
+            1
+        ],
+        "total": 400.0
+    }
+]

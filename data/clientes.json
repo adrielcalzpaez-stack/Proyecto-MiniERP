@@ -1,0 +1,16 @@
+[
+    {
+        "apellido": "lopez",
+        "correo": "daniellopez",
+        "id": "1",
+        "nombre": "daniel",
+        "telefono": "20304050"
+    },
+    {
+        "apellido": "Ramos",
+        "correo": "pepe123@gmail.com",
+        "id": "2",
+        "nombre": "Pepe",
+        "telefono": "5667878"
+    }
+]
